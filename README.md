@@ -1,4 +1,4 @@
-# Ema‑John | Shopping App (React + TypeScript + Firebase + Vite + Tailwind)
+# Ema‑John | Shopping App with React + TypeScript + Firebase + Vite + Tailwind
 
 A production‑ready, modular e‑commerce demo application built with React, TypeScript, Vite, Tailwind CSS and Firebase (Authentication + Hosting). This repository demonstrates modern frontend architecture, client-side state + persistence, routing, and a deployment pipeline to Firebase Hosting.
 
@@ -78,7 +78,7 @@ A production‑ready, modular e‑commerce demo application built with React, Ty
 - typescript, vite, @vitejs/plugin-react
 - tailwindcss, postcss, autoprefixer
 - firebase
-- localforage, match-sorter, fontawesome
+- localforage, match-sorter, font awesome
 
 ### Development Tips
 
@@ -97,12 +97,26 @@ A production‑ready, modular e‑commerce demo application built with React, Ty
 - Built with Vite, React, TypeScript, Tailwind CSS and Firebase.
 - Sample dataset and app idea inspired by common e‑commerce tutorials.
 
-#### License
+### License
 
-- No license file included. Add a LICENSE file to declare usage terms.
+- This project is licensed under the terms of the **[MIT License](./LICENSE)**.
+- You may replace or update the license as needed for client or proprietary projects.
 
-#### Contact | Demos
+---
 
-- **Email:** abu.kayser.official@gmail.com
-- To run locally: follow the Getting started section above.
-- For a production demo, deploy the `dist` folder to Firebase Hosting (see [firebase.json](firebase.json)).
+### Contact and Maintainer
+
+**Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)  
+**Name:** Md Abu Kayser - Full-Stack Engineer
+
+- **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
+- **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+- **Project:** _ema-john-with-firebase-auth_
+
+If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
+
+---
+
+**Thank you for reviewing this project!**
+
+---
