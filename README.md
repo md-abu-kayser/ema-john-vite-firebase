@@ -15,7 +15,7 @@ A production‑ready, modular e‑commerce demo application built with React, Ty
 - [Tailwind config](tailwind.config.js) - Tailwind customization
 - [Vite config](vite.config.ts) - build/dev configuration
 
-### Key features
+## Key features
 
 - Modern React 18 + TypeScript codebase.
 - Fast development with Vite and HMR ([vite](https://vitejs.dev/), see [package.json](package.json) scripts).
@@ -28,14 +28,21 @@ A production‑ready, modular e‑commerce demo application built with React, Ty
 - Sample product data for local development: [public/products.json](public/products.json) and [src/fakeData/products.json](src/fakeData/products.json).
 - FontAwesome integration for icons.
 
-### Getting started----> local
+## Getting started - local
 
 1. **Install dependencies**
+
+```bash
    npm install
+```
 
 2. **Run dev server**
+
+```bash
    npm run dev
-   - Uses the `dev` script in [package.json](package.json)
+```
+
+- Uses the `dev` script in [package.json](package.json)
 
 3. **Build for production**
    npm run build
