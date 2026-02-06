@@ -1,4 +1,4 @@
-# Ema‑John | Shopping App with React + TypeScript + Firebase + Vite + Tailwind
+# Ema-John - React + TypeScript + Vite Shopping App (Firebase Auth & Hosting)
 
 A production‑ready, modular e‑commerce demo application built with React, TypeScript, Vite, Tailwind CSS and Firebase (Authentication + Hosting). This repository demonstrates modern frontend architecture, client-side state + persistence, routing, and a deployment pipeline to Firebase Hosting.
 
@@ -35,7 +35,6 @@ A production‑ready, modular e‑commerce demo application built with React, Ty
 
 2. **Run dev server**
    npm run dev
-
    - Uses the `dev` script in [package.json](package.json)
 
 3. **Build for production**
