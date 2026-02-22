@@ -26,31 +26,6 @@
 [![ECMAScript Spec](https://img.shields.io/badge/ECMAScript-262-7A0BC0?logo=ecmascript&logoColor=white)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 
-<!-- Databases -->
-
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://dev.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Redis](https://img.shields.io/badge/Redis-D92E2E?logo=redis&logoColor=white)](https://redis.io/)
-
-<!-- ORMs -->
-
-[![Prisma](https://img.shields.io/badge/Prisma-2B3440?logo=prisma&logoColor=white)](https://www.prisma.io/)
-[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white)](https://sequelize.org/)
-[![TypeORM](https://img.shields.io/badge/TypeORM-0055B8?logo=typeorm&logoColor=white)](https://typeorm.io/)
-[![Mongoose](https://img.shields.io/badge/Mongoose-BA1F62?logo=mongodb&logoColor=white)](https://mongoosejs.com/)
-
-<!-- Containers & Orchestration -->
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?logo=docker&logoColor=white)](https://docs.docker.com/compose/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-
-<!-- Servers & Process -->
-
-[![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)](https://nginx.org/)
-[![PM2](https://img.shields.io/badge/PM2-2F2F2F?logo=pm2&logoColor=white)](https://pm2.keymetrics.io/)
-
 <!-- Auth & Security -->
 
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/docs)
