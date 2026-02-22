@@ -36,13 +36,6 @@
 
 [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)](https://jestjs.io/)
 
-<!-- Messaging & Email -->
-
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
-[![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
-[![SendGrid](https://img.shields.io/badge/SendGrid-00C8FF?logo=sendgrid&logoColor=white)](https://sendgrid.com/)
-[![Mailgun](https://img.shields.io/badge/Mailgun-FF6D3A?logo=mailgun&logoColor=white)](https://www.mailgun.com/)
-
 <!-- Linting & Formatting -->
 
 [![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/docs/latest/)
@@ -64,7 +57,6 @@
 - JavaScript (MDN) docs: [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - ECMAScript (spec, ECMA-262) docs: [https://www.ecma-international.org/publications-and-standards/standards/ecma-262/](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 - TypeScript docs: [https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)
-- PM2 docs: [https://pm2.keymetrics.io/](https://pm2.keymetrics.io/)
 - Firebase docs: [https://firebase.google.com/docs](https://firebase.google.com/docs)
 - Passport.js docs: [http://www.passportjs.org/](http://www.passportjs.org/)
 - Auth0 docs: [https://auth0.com/](https://auth0.com/)
