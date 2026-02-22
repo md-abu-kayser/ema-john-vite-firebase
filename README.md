@@ -43,11 +43,6 @@
 [![SendGrid](https://img.shields.io/badge/SendGrid-00C8FF?logo=sendgrid&logoColor=white)](https://sendgrid.com/)
 [![Mailgun](https://img.shields.io/badge/Mailgun-FF6D3A?logo=mailgun&logoColor=white)](https://www.mailgun.com/)
 
-<!-- Networking & Utilities -->
-
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
-[![dotenv](https://img.shields.io/badge/dotenv-464646?logo=dotenv&logoColor=white)](https://github.com/motdotla/dotenv)
-
 <!-- Linting & Formatting -->
 
 [![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/docs/latest/)
@@ -57,96 +52,28 @@
 
 [![Vite](https://img.shields.io/badge/Vite-646cff?logo=vite&logoColor=white)](https://vite.dev/)
 
----
-
-## Plain docs links (use these in a README “Docs & links” section)
+## Plain docs links
 
 - HTML (MDN) docs: [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - CSS (MDN) docs: [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - Tailwind CSS docs: [https://tailwindcss.com/docs/](https://tailwindcss.com/docs/)
 - PostCSS docs / postcss.config: [https://postcss.org/](https://postcss.org/)
-- daisyUI docs: [https://daisyui.com/](https://daisyui.com/)
-- Bootstrap docs: [https://getbootstrap.com/](https://getbootstrap.com/)
-- Google Fonts docs: [https://fonts.google.com/](https://fonts.google.com/)
-- Font Awesome docs: [https://fontawesome.com/](https://fontawesome.com/)
-- Heroicons docs: [https://heroicons.com/](https://heroicons.com/)
 - Node.js docs: [https://nodejs.org/](https://nodejs.org/)
 - Express docs: [https://expressjs.com/](https://expressjs.com/)
 - React docs: https://react.dev/
-- Next.js docs: https://nextjs.org/docs
 - JavaScript (MDN) docs: [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - ECMAScript (spec, ECMA-262) docs: [https://www.ecma-international.org/publications-and-standards/standards/ecma-262/](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 - TypeScript docs: [https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)
-- Go (Golang) docs: [https://go.dev/doc/](https://go.dev/doc/)
-- PostgreSQL docs: [https://www.postgresql.org/](https://www.postgresql.org/)
-- MySQL docs: [https://dev.mysql.com/](https://dev.mysql.com/)
-- MongoDB docs: [https://www.mongodb.com/](https://www.mongodb.com/)
-- Redis docs: [https://redis.io/](https://redis.io/)
-- Prisma docs: [https://www.prisma.io/](https://www.prisma.io/)
-- Sequelize docs: [https://sequelize.org/](https://sequelize.org/)
-- TypeORM docs: [https://typeorm.io/](https://typeorm.io/)
-- Mongoose docs: [https://mongoosejs.com/](https://mongoosejs.com/)
-- Docker docs: [https://www.docker.com/](https://www.docker.com/)
-- Docker Compose docs: [https://docs.docker.com/compose/](https://docs.docker.com/compose/)
-- Kubernetes docs: [https://kubernetes.io/](https://kubernetes.io/)
-- Nginx docs: [https://nginx.org/](https://nginx.org/)
 - PM2 docs: [https://pm2.keymetrics.io/](https://pm2.keymetrics.io/)
 - Firebase docs: [https://firebase.google.com/docs](https://firebase.google.com/docs)
 - Passport.js docs: [http://www.passportjs.org/](http://www.passportjs.org/)
 - Auth0 docs: [https://auth0.com/](https://auth0.com/)
-- GraphQL docs: [https://graphql.org/](https://graphql.org/)
-- Apollo docs: [https://www.apollographql.com/](https://www.apollographql.com/)
-- Swagger / OpenAPI docs: [https://swagger.io/](https://swagger.io/)
-- Postman docs: [https://www.postman.com/](https://www.postman.com/)
-- GitHub docs: [https://github.com/](https://github.com/)
-- GitLab docs: [https://gitlab.com/](https://gitlab.com/)
-- GitHub Actions docs: [https://docs.github.com/actions](https://docs.github.com/actions)
 - Jest docs: [https://jestjs.io/](https://jestjs.io/)
-- Vitest docs: [https://vitest.dev/](https://vitest.dev/)
-- SuperTest docs: [https://github.com/visionmedia/supertest](https://github.com/visionmedia/supertest)
-- Cypress docs: [https://www.cypress.io/](https://www.cypress.io/)
-- Playwright docs: [https://playwright.dev/](https://playwright.dev/)
-- AWS docs: [https://aws.amazon.com/](https://aws.amazon.com/)
-- Google Cloud docs: [https://cloud.google.com/](https://cloud.google.com/)
-- DigitalOcean docs: [https://www.digitalocean.com/](https://www.digitalocean.com/)
-- Sentry docs: [https://sentry.io/](https://sentry.io/)
-- Prometheus docs: [https://prometheus.io/](https://prometheus.io/)
-- Grafana docs: [https://grafana.com/](https://grafana.com/)
-- Elasticsearch docs : [https://www.elastic.co/elasticsearch/](https://www.elastic.co/elasticsearch/)
-- RabbitMQ docs: [https://www.rabbitmq.com/](https://www.rabbitmq.com/)
-- Apache Kafka docs: [https://kafka.apache.org/](https://kafka.apache.org/)
-- SendGrid docs: [https://sendgrid.com/](https://sendgrid.com/)
-- Mailgun docs: [https://www.mailgun.com/](https://www.mailgun.com/)
-- Cloudflare docs: [https://www.cloudflare.com/](https://www.cloudflare.com/)
-- dotenv docs: [https://github.com/motdotla/dotenv](https://github.com/motdotla/dotenv)
 - ESLint docs: [https://eslint.org/docs/latest/](https://eslint.org/docs/latest/)
 - Prettier docs: [https://prettier.io/docs/](https://prettier.io/docs/)
 - Vite docs: [https://vite.dev/](https://vite.dev/)
 
 ---
-
-## Quick repo files (copy-paste into repo)
-
-### `.env.example`
-
-```env
-# .env.example
-CONNECTION_STR=postgres://postgres:postgres@localhost:5432/appdb
-PORT=5000
-JWT_SECRET=replace_with_a_strong_secret
-NODE_ENV=development
-```
-
----
-
-## Notes
-
-- Paste this block at the top of your `README.md` to show badges and quick links.
-- Edit the `Project Title` and add a short project description, installation, usage, and contribution sections below as needed.
-
----
-
-<!-- End of copy-paste-ready badges & docs -->
 
 A production‑ready, modular e‑commerce demo application built with React, TypeScript, Vite, Tailwind CSS and Firebase (Authentication + Hosting). This repository demonstrates modern frontend architecture, client-side state + persistence, routing, and a deployment pipeline to Firebase Hosting.
 
