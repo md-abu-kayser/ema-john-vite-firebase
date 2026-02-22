@@ -1,7 +1,5 @@
 # Ema-John - React + TypeScript + Vite Shopping App (Firebase Auth & Hosting)
 
-# Project Title
-
 <!-- MIT License -->
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
