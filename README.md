@@ -32,39 +32,9 @@
 [![Passport.js](https://img.shields.io/badge/Passport.js-4B2B8D?logo=passport.js&logoColor=white)](http://www.passportjs.org/)
 [![Auth0](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white)](https://auth0.com/)
 
-<!-- API & Docs -->
-
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)](https://graphql.org/)
-[![Apollo](https://img.shields.io/badge/Apollo-311C87?logo=apollo&logoColor=white)](https://www.apollographql.com/)
-[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)](https://swagger.io/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
-
-<!-- Dev & CI -->
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)](https://docs.github.com/actions)
-
 <!-- Testing -->
 
 [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)](https://jestjs.io/)
-[![Vitest](https://img.shields.io/badge/Vitest-6E00FF?logo=vitest&logoColor=white)](https://vitest.dev/)
-[![SuperTest](https://img.shields.io/badge/SuperTest-000000?logo=jest&logoColor=white)](https://github.com/visionmedia/supertest)
-[![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)](https://www.cypress.io/)
-[![Playwright](https://img.shields.io/badge/Playwright-000000?logo=playwright&logoColor=white)](https://playwright.dev/)
-
-<!-- Cloud & Monitoring -->
-
-[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com/)
-[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
-[![Sentry](https://img.shields.io/badge/Sentry-362F78?logo=sentry&logoColor=white)](https://sentry.io/)
-
-<!-- Observability & Search -->
-
-[![Prometheus](https://img.shields.io/badge/Prometheus-FF6A00?logo=prometheus&logoColor=white)](https://prometheus.io/)
-[![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](https://grafana.com/)
-[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elastic&logoColor=white)](https://www.elastic.co/elasticsearch/)
 
 <!-- Messaging & Email -->
 
